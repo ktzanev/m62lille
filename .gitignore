@@ -1,0 +1,14 @@
+# les scripts perso
+*.cmd
+*.sh
+*.ps1
+
+# les solutions
+solutions
+.ipynb_checkpoints
+
+# Autres dossiers et fichiers
+Archive*
+*.png
+*ntitled*
+*test*

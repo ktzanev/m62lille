@@ -1,0 +1,3 @@
+# Ensure LF for some files.
+*.tex text eol=lf
+*.sty text eol=lf
