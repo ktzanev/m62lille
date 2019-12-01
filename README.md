@@ -2,7 +2,7 @@
 
 [page web](https://ktzanev.github.io/m62lille/)
 
-Les tps du module M62 - « M62 Equations différentielles » de l'Université de Lille
+Les TPs du module M62 - « Équations différentielles » de l'Université de Lille.
 
 Vous pouvez récupérer [ce dépôt](https://github.com/ktzanev/m62lille) de deux façons faciles :
 
@@ -13,10 +13,10 @@ Vous pouvez récupérer [ce dépôt](https://github.com/ktzanev/m62lille) de deu
   git clone git@github.com:ktzanev/m62lille.git
   ~~~~~~~
 
-Vous pouvezaussi ouvrir [ce dépôt](https://github.com/ktzanev/m62lille) dans le cloud :
+Vous pouvez aussi ouvrir [ce dépôt](https://github.com/ktzanev/m62lille) dans le cloud :
 
-- avec Google Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ktzanev/m62lille/blob/master) [pour l'execution vous avez besoin d'un compte Google];
-- avec Binder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ktzanev/m62lille/master?filepath=TPs)
+- avec Google Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ktzanev/m62lille/blob/master) [pour l'exécution vous avez besoin d'un compte Google];
+- avec Binder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ktzanev/m62lille/master?filepath=TPs).
 
 ### 2019/20
 
