@@ -13,8 +13,13 @@ Vous pouvez récupérer [ce dépôt](https://github.com/ktzanev/m62lille) de deu
   git clone git@github.com:ktzanev/m62lille.git
   ~~~~~~~
 
+Vous pouvezaussi ouvrir [ce dépôt](https://github.com/ktzanev/m62lille) dans le cloud :
+
+- avec Google Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ktzanev/m62lille/blob/master) [pour l'execution vous avez besoin d'un compte Google];
+- avec Binder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ktzanev/m62lille/master?filepath=TPs)
+
 ### 2019/20
 
 Dans [ce dépôt](https://github.com/ktzanev/m62lille) vous pouvez trouver les sources `ipynb` suivants :
 
-- [Feuille de TP n°1](https://ktzanev.github.io/m62lille/TPs/M62_2019_2020_TP1.ipynb)
+- Feuille de TP n°1 [[source ipynb](https://ktzanev.github.io/m62lille/TPs/M62_2019_2020_TP1.ipynb)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ktzanev/m62lille/blob/master/TPs/M62_2019_2020_TP1.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ktzanev/m62lille/master?filepath=%2FTPs%2FM62_2019_2020_TP1.ipynb)
