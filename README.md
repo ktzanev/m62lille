@@ -26,6 +26,8 @@ Dans [ce dépôt](https://github.com/ktzanev/m62lille) vous pouvez trouver les s
 *(cette feuille 0 est à étudier, et jouer avec, avant le début des tps)*
 - Feuille de TP n°1 [[source ipynb](https://ktzanev.github.io/m62lille/TPs/M62_2019_2020_TP1.ipynb)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ktzanev/m62lille/blob/master/TPs/M62_2019_2020_TP1.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ktzanev/m62lille/master?filepath=%2FTPs%2FM62_2019_2020_TP1.ipynb)
 - Feuille de TP n°2 [[source ipynb](https://ktzanev.github.io/m62lille/TPs/M62_2019_2020_TP2.ipynb)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ktzanev/m62lille/blob/master/TPs/M62_2019_2020_TP2.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ktzanev/m62lille/master?filepath=%2FTPs%2FM62_2019_2020_TP2.ipynb)
+- Feuille de TP n°3 [[source ipynb](https://ktzanev.github.io/m62lille/TPs/M62_2019_2020_TP3.ipynb)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ktzanev/m62lille/blob/master/TPs/M62_2019_2020_TP3.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ktzanev/m62lille/master?filepath=%2FTPs%2FM62_2019_2020_TP3.ipynb)
+
 ## Comment utiliser iPython dans les salles de tp
 
 1. Ouvrer un terminal et aller dans le répertoire où vous allez stocker les fichiers `ipynb`.
