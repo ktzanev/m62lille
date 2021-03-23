@@ -26,14 +26,13 @@ Vous pouvez aussi ouvrir [ce dépôt](https://github.com/ktzanev/m62lille) dans 
   ;
 - avec ![Google Colab](https://colab.research.google.com/assets/colab-badge.svg) :
   [[Google Colab](https://colab.research.google.com/github/ktzanev/m62lille/blob/master)]
-  _(pour l'exécution vous avez besoin d'un compte Google)_.
+  .
 
 [Ce dépôt](https://github.com/ktzanev/m62lille) contient les fichiers :
 
 - [Feuille de TP n°0](M62_TP0.ipynb)
 *(cette feuille 0 est à étudier, et jouer avec, avant le début des tps)*
 - [Feuille de TP n°1](M62_TP1_NOM_Prenom.ipynb)
-*(version α qui sera modifiée par la suite)*
 
 
 ### 2019/20
@@ -87,3 +86,10 @@ Pour installer toutes ces bibliothèques il suffit d'exécuter en ligne de comma
 ```bash
 conda install -c conda-forge jupyterlab numpy matplotlib scipy
 ```
+
+## Serveur Jupyter à accès libre
+
+En plus de [Binder](https://mybinder.org) et de [Google Colab](https://colab.research.google.com) il y a aussi d'autres serveurs gratuits, mais où vous devez déposer manuellement le fichier `.ipynb` récupéré sur GitHub :
+- [CoCalc](https://cocalc.com/)
+- [Kaggle](https://www.kaggle.com/)
+- [Datalore](https://datalore.jetbrains.com/)
