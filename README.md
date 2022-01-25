@@ -14,7 +14,7 @@ Vous pouvez récupérer [ce dépôt](https://github.com/ktzanev/m62lille) de deu
   ~~~~~~~
 
 
-### 2020/21
+### 2021/22
 
 Vous pouvez aussi ouvrir [ce dépôt](https://github.com/ktzanev/m62lille) dans le cloud :
 
@@ -34,6 +34,26 @@ Vous pouvez aussi ouvrir [ce dépôt](https://github.com/ktzanev/m62lille) dans 
 *(cette feuille 0 est à étudier, et jouer avec, avant le début des tps)*
 - [Feuille de TP n°1](M62_TP1_NOM_Prenom.ipynb)
 - [Feuille de TP n°2](M62_TP2_NOM_Prenom.ipynb)
+
+
+### 2020/21
+
+Téléchargeant l'archive [zip](https://github.com/ktzanev/m62lille/archive/refs/tags/v2021.zip) qui contient la version des fichiers de 2020/21.
+
+Dans [la version de 2020/21](https://github.com/ktzanev/m62lille/tree/v2021) vous pouvez trouver les sources `ipynb` suivants :
+
+- Feuille de TP n°0 [[source ipynb](https://github.com/ktzanev/m62lille/blob/v2021/M62_TP0.ipynb)]<br>
+*(cette feuille 0 est à étudier, et jouer avec, avant le début des tps)*
+- Feuille de TP n°1 [[source ipynb](https://github.com/ktzanev/m62lille/blob/v2021/M62_TP1_NOM_Prenom.ipynb)]
+- Feuille de TP n°2 [[source ipynb](https://github.com/ktzanev/m62lille/blob/v2021/M62_TP2_NOM_Prenom.ipynb)]
+
+Vous pouvez aussi ouvrir ces fichiers dans le cloud avec ![Binder](https://mybinder.org/badge_logo.svg) :
+  [[OVH](https://binder.mybinder.ovh/v2/gh/ktzanev/m62lille/v2021)]
+  [[MyBinder](https://mybinder.org/v2/gh/ktzanev/m62lille/v2021)]
+  [[Gesis](https://notebooks.gesis.org/binder/v2/gh/ktzanev/m62lille/v2021)]
+  [[Google Cloud](https://gke.mybinder.org/v2/gh/ktzanev/m62lille/v2021)]
+  ;
+
 
 
 ### 2019/20
