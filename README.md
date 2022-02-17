@@ -34,6 +34,8 @@ Vous pouvez aussi ouvrir [ce dépôt](https://github.com/ktzanev/m62lille) dans 
 *(cette feuille 0 est à étudier, et jouer avec, avant le début des tps)*
 - [Feuille de TP n°1](M62_TP1_NOM_Prenom.ipynb)
 - [Feuille de TP n°2](M62_TP2_NOM_Prenom.ipynb)
+- [Feuille de TP n°3](M62_TP3_NOM_Prenom.ipynb)
+- [Feuille de TP n°4](M62_TP4_NOM_Prenom.ipynb)
 
 
 ### 2020/21
