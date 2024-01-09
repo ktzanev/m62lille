@@ -80,3 +80,6 @@ En plus de [Binder](https://mybinder.org) et de [Google Colab](https://colab.res
 ## Archives
 
 Vous pouvez trouver les TPs des années précédentes dans [les archives](archives.md).
+
+---
+[Licence MIT](LICENSE)
